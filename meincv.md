@@ -1,6 +1,7 @@
 # LT
-**Technical Lead | System Infrastructure & Backend Engineering**
-Ho Chi Minh City, Vietnam | [Your Email] | [LinkedIn URL] | [GitHub URL]
+**Technical Lead | System Engineering & Backend Engineering**
+
+Ho Chi Minh City, Vietnam | tuannleeeee@gmail.com | +84 94 123 7430 | [LinkedIn](https://www.linkedin.com/in/l%C3%AA-t%C3%B4n-anh-tu%E1%BA%A5n-6324b0396/) | [LTgitspace](https://github.com/LTgitspace)
 
 ## PROFESSIONAL SUMMARY
 Pragmatic Technical Lead with a "solutions-first, code-later" approach to complex distributed systems. Specialist in cross-layer handling, platform engineering, and high-stakes infrastructure. Proven track record of bridging hardware and software protocols, from Edge-Fog-Cloud continuum research to production-grade enterprise ecosystems. Core philosophy: System architecture is the truth; code is the tool.
@@ -31,7 +32,7 @@ Pragmatic Technical Lead with a "solutions-first, code-later" approach to comple
 * Structuring the backend to handle complex transactional logic and secure third-party service integrations independently from other enterprise ecosystems.
 
 **mein-idaas - Self-Hosted Identity as a Service**
-*Core Developer* | Dec 2025 – feb 2026
+*Core Developer* | Dec 2025 – Feb 2026
 * Built an IDaaS solution using Go (Fiber) to manage authentication and authorization flows securely and efficiently.
 * Implemented rotational JWT pairs with grace period, IP monitoring, OTP, email verification, and third-party OAuth credential integration.
 
@@ -42,11 +43,11 @@ Pragmatic Technical Lead with a "solutions-first, code-later" approach to comple
 ## TECHNICAL EXPERTISE
 
 * **Core Languages:** Go, Python, C#, Java, JavaScript, C.
-* **Frameworks & Tools:** Spring Boot, Fiber, Gin, .NET, Express.js, STM32 HAL, Nordic SDK.
+* **Frameworks & Tools:** Spring Boot, Fiber, Gin, .NET, Express.js, RestAPI, gRPC, STM32 HAL, Nordic SDK.
 * **Data & Messaging:** PostgreSQL, MySQL, MongoDB, Cassandra (CQL), Redis, Memcached, Kafka, Zookeeper.
 * **Cloud & DevOps:** Kubernetes, Docker, AWS, GCP, Azure, Nginx, Cloudflared.
 * **Embedded & Hardware:** Embedded systems programming, Electronics, Server maintenance.
-* **AI/ML:** LLM integration, AI agent development, Prompt engineering, AI planning, AI model quantization, AI weight training.
+* **AI/ML:** LLM integration, MCP server development, Prompt engineering, AI planning, AI model quantization, AI weight training.
 
 ## EDUCATION
 
