@@ -1,10 +1,19 @@
-# LT
-**Technical Lead | System Engineering & Backend Engineering**
+<style>
+  body { font-size: 11.5px; line-height: 1.25; }
+  h1 { margin-bottom: 4px; }
+  h2 { margin-top: 8px; margin-bottom: 4px; padding-bottom: 2px; border-bottom: 1px solid #ccc; }
+  p { margin-top: 2px; margin-bottom: 4px; }
+  ul { margin-top: 2px; margin-bottom: 4px; }
+  li { margin-bottom: 2px; }
+</style>
 
-Ho Chi Minh City, Vietnam | tuannleeeee@gmail.com | +84 94 123 7430 | [LinkedIn](https://www.linkedin.com/in/l%C3%AA-t%C3%B4n-anh-tu%E1%BA%A5n-6324b0396/) | [LTgitspace](https://github.com/LTgitspace)
+# Lê Tôn Anh Tuấn
+**Software & Platform Engineer | Cross-Layer Engineering**
+
+Ho Chi Minh City, Vietnam | tuannleeeee@gmail.com | +84 94 123 7430 | [LinkedIn](https://www.linkedin.com/in/l%C3%AA-t%C3%B4n-anh-tu%E1%BA%A5n-6324b0396/) | [Github](https://github.com/LTgitspace)
 
 ## PROFESSIONAL SUMMARY
-Pragmatic Technical Lead with a "solutions-first, code-later" approach to complex distributed systems. Specialist in cross-layer handling, platform engineering, and high-stakes infrastructure. Proven track record of bridging hardware and software protocols, from Edge-Fog-Cloud continuum research to production-grade enterprise ecosystems. Core philosophy: System architecture is the truth; code is the tool.
+Pragmatic Technical Lead with a "solutions-first, code-later" approach to complex distributed systems. Specialist in cross-layer handling, platform engineering, and high-stakes infrastructure. Proven track record of bridging hardware and software protocols, from embedded autonomous robotics to high-concurrency microservices. Core philosophy: System architecture is the truth; code is the tool.
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -16,15 +25,22 @@ Pragmatic Technical Lead with a "solutions-first, code-later" approach to comple
 
 **Demo Voting Platform** | Ho Chi Minh City, Vietnam
 *Backend Lead* | Oct 2025 – Nov 2025
-* Designed and implemented a scalable microservices architecture for a voting platform. Implemented heavy caching mechanisms for read-heavy workloads, ensuring low latency and high availability.
-* Achieved up to 1k write RPS on $40 infrastructure, demonstrating efficient resource utilization and cost-effectiveness. Network constraints (100 Mbps) capped read RPS at 600.
+* Designed and implemented a scalable microservices architecture for a voting platform. Implemented heavy caching mechanisms for read-heavy workloads, ensuring low latency and high availability. Achieved up to 1k write RPS on $40 infrastructure, demonstrating efficient resource utilization and cost-effectiveness. Network constraints (100 Mbps) capped read RPS at 600.
+
+**AWS Vietnam** | Ho Chi Minh City, Vietnam
+*OJT Internship* | Sep 2025 - Dec 2025
+* Learnt about AWS core services, DevOps practices, Cloud Computing characteristics
+* Led a peer team to design and deploy a cloud-native microservice application on AWS, implementing CI/CD pipelines.
 
 **Freelancing Contracts** | Remote
 *Freelancer* | 2023 – 2025
-* Developed a range of applications, from web services to embedded systems and electronics, demonstrating versatility and adaptability across different tech stacks and project requirements.
-* Engaged in projects that required deep technical expertise, problem-solving skills, and the ability to deliver high-quality solutions under tight deadlines.
+* Engineered diverse backend services, custom electronics, and embedded systems, delivering cross-layer solutions tailored to strict client constraints (cost, latency, and hardware).
 
 ## RESEARCH & TECHNICAL PROJECTS
+
+**Fairino Cobot Xiangqi Integration**
+*Lead Engineer* | Mar 2026 – Present
+* Developing an AI-based Chinese chess (Xiangqi) player utilizing Fairino FR3/FR5 cobot arms, involving real-time hardware control, computer vision, kinematics, and software integration.
 
 **Spiritech - E-Commerce & AI Agent Platform**
 *Technical Lead* | Feb 2026 – Present
@@ -36,21 +52,22 @@ Pragmatic Technical Lead with a "solutions-first, code-later" approach to comple
 * Built an IDaaS solution using Go (Fiber) to manage authentication and authorization flows securely and efficiently.
 * Implemented rotational JWT pairs with grace period, IP monitoring, OTP, email verification, and third-party OAuth credential integration.
 
-**Fairino Cobot Xiangqi Integration**
-*Lead Engineer* | Mar 2026 – Present
-* Developing an AI-based Chinese chess (Xiangqi) player utilizing Fairino FR3/FR5 cobot arms, involving real-time hardware control, computer vision, kinematics, and software integration.
-
 ## TECHNICAL EXPERTISE
 
 * **Core Languages:** Go, Python, C#, Java, JavaScript, C.
-* **Frameworks & Tools:** Spring Boot, Fiber, Gin, .NET, Express.js, RestAPI, gRPC, STM32 HAL, Nordic SDK.
-* **Data & Messaging:** PostgreSQL, MySQL, MongoDB, Cassandra (CQL), Redis, Memcached, Kafka, Zookeeper.
+* **Frameworks & Tools:** Spring Boot, Fiber, Gin, .NET, Express.js, RestAPI, gRPC, STM32 HAL, Nordic SDK, Git.
+* **Data & Messaging:** SQL, noSQL, CQL, Redis, Memcached, RabbitMQ, Kafka, Zookeeper.
 * **Cloud & DevOps:** Kubernetes, Docker, AWS, GCP, Azure, Nginx, Cloudflared.
 * **Embedded & Hardware:** Embedded systems programming, Electronics, Server maintenance.
-* **AI/ML:** LLM integration, MCP server development, Prompt engineering, AI planning, AI model quantization, AI weight training.
+* **AI/ML:** LLM integration, MCP server development, Prompt engineering, Model quantization, Weight training.
 
 ## EDUCATION
 
 **FPT University (FPTU)** | Ho Chi Minh City, Vietnam
 *Bachelor of Science in Software Engineering*
 * Focus: Advanced System Architecture, Embedded Infrastructure, and Distributed Computing.
+
+## CERTIFICATIONS & AWARDS
+
+* **IELTS 7.0** – English Language Proficiency
+* **Silver Medal** – English Olympic Competition
