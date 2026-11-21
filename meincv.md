@@ -18,7 +18,7 @@ Ho Chi Minh City, Vietnam | tuannleeeee@gmail.com | +84 94 123 7430 | [LinkedIn]
 *System Engineer* | Dec 2025 – Present
 * Set the technical foundation, development, and system orientation for **Dolores CMaaS**.
 * Led robotic and embedded integration into cloud telemetry and control pipelines.
-* Solo dev for store management agent
+* Solo dev for store management agent.
 * DevOps for products.
 
 **Artist Voting Platform Startup (Discontinued)** | Ho Chi Minh City, Vietnam
@@ -30,10 +30,11 @@ Ho Chi Minh City, Vietnam | tuannleeeee@gmail.com | +84 94 123 7430 | [LinkedIn]
 * Led a peer team deploying a cloud-native microservice app on AWS with automated CI/CD.
 
 ## TECHNICAL SKILLS
-* **Efficient Languages:** Java, Go, Python, C, SQL, CQL.
+* **Efficient Languages:** Java, Go, Python, C, TypeScript, Flutter, SQL, CQL.
 * **Backend & Data:** Spring Boot, Fiber, gRPC, Valkey / Redis, Memcached, PostgreSQL, InfluxDB, ScyllaDB.
 * **Infra & DevOps:** AWS, Proxmox, Docker, Traefik, WireGuard, Infisical, Harbor registry, Semgrep.
 * **Embedded & Robotics:** STM32Cube, FreeRTOS, ESP-IDF, ZephyrOS, Qualcomm MDK, Electronics, Fairino ecosystem.
+* **AI & Agent:** MCP, VLM integration, RAG, Harness engineering, TSFM.
 
 ## EDUCATION & CERTIFICATIONS
 **FPT University (FPTU)** | Ho Chi Minh City, Vietnam — *Bachelor of Science in Software Engineering* | Expected Graduation: Dec 2026
