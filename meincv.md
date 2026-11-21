@@ -15,9 +15,10 @@ Ho Chi Minh City, Vietnam | tuannleeeee@gmail.com | +84 94 123 7430 | [LinkedIn]
 ## EXPERIENCE
 
 **Wisky** | Ho Chi Minh City, Vietnam
-*System Engineer* | Dec 2025 – Dec 2026
+*System Engineer* | Dec 2025 – Present
 * Set the technical foundation, development, and system orientation for **Dolores CMaaS**.
 * Led robotic and embedded integration into cloud telemetry and control pipelines.
+* Solo dev for store management agent
 * DevOps for products.
 
 **Artist Voting Platform Startup (Discontinued)** | Ho Chi Minh City, Vietnam
@@ -32,7 +33,7 @@ Ho Chi Minh City, Vietnam | tuannleeeee@gmail.com | +84 94 123 7430 | [LinkedIn]
 * **Efficient Languages:** Java, Go, Python, C, SQL, CQL.
 * **Backend & Data:** Spring Boot, Fiber, gRPC, Valkey / Redis, Memcached, PostgreSQL, InfluxDB, ScyllaDB.
 * **Infra & DevOps:** AWS, Proxmox, Docker, Traefik, WireGuard, Infisical, Harbor registry, Semgrep.
-* **Embedded & Robotics:** STM32Cube, FreeRTOS, ESP-IDF, ZephyrOS, Qualcomm MDK, Electronics.
+* **Embedded & Robotics:** STM32Cube, FreeRTOS, ESP-IDF, ZephyrOS, Qualcomm MDK, Electronics, Fairino ecosystem.
 
 ## EDUCATION & CERTIFICATIONS
 **FPT University (FPTU)** | Ho Chi Minh City, Vietnam — *Bachelor of Science in Software Engineering* | Expected Graduation: Dec 2026
