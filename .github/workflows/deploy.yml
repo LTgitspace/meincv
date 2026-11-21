@@ -1,0 +1,33 @@
+name: Deploy CV to Cloudflare
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - meincv.html
+      - build-web.mjs
+      - .github/workflows/deploy.yml
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Build masked static site
+        run: node build-web.mjs
+
+      - name: Deploy to Cloudflare Workers
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: c9da4b61c371f7f55eb31357cb2df09c
+          command: deploy --assets=dist --name=meincv --compatibility-date=2026-11-01
